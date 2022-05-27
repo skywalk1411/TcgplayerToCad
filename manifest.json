@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "TCGPlayerToCad",
+    "version": "1.0",
+    "description": "Display TCGPlayer.com prices as (CAD$) Canadian Dollars.",
+    "icons": {
+        "48": "icons/border-48.png"
+    },
+    "content_scripts": [
+        {
+            "matches": ["*://*.tcgplayer.com/product/*","*://*.tcgplayer.com/search/*"],
+            "js": ["usdToCadProduct.js"]
+        }
+    ],
+    "permissions": [
+        "<all_urls>"
+      ]
+}
