@@ -13,7 +13,7 @@ fetch('https://stonkch.art/api2api/https%3A%2F%2Fquery1.finance.yahoo.com%2Fv10%
                             }
                             let element2 = document.querySelector(`div.search-result:nth-child(${i}) > div:nth-child(1) > a:nth-child(1) > section:nth-child(1) > section:nth-child(7) > section:nth-child(1) > span:nth-child(2)`);
                             if (element2) {
-                                element2.textContent = element2.textContent + ` (${(Number(element2.textContent.slice(2, element2.textContent.length - 2).replace(/[^0-9.-]+/g, "")) * Number(data.quoteSummary.result[0].price.regularMarketPrice.raw)).toFixed(2)}$)`;
+                                element2.textContent = element2.textContent + ` (${(Number(element2.textContent.slice(1).replace(/[^0-9.-]+/g, "")) * Number(data.quoteSummary.result[0].price.regularMarketPrice.raw)).toFixed(2)}$)`;
                             }
                             let element3 = document.querySelector(`div.search-result:nth-child(${i}) > div:nth-child(1) > a:nth-child(1) > section:nth-child(1) > section:nth-child(6) > section:nth-child(1) > span:nth-child(2)`);
                             if (element3) {
