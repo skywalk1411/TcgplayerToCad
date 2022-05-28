@@ -8,9 +8,11 @@ Automatic Firefox Installation:
 
 Manual Firefox Installation:
 
-1) Open firefox url [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox)
-2) Click 'Load Temporary Add-on...' button
-3) Find the manifest.json file from the source of tcgplayertocad
+1) Download url [https://github.com/skywalk1411/TcgplayerToCad/raw/main/chrome/tcgplayertocad_firefox_v12.zip](https://github.com/skywalk1411/TcgplayerToCad/raw/main/chrome/tcgplayertocad_firefox_v12.zip)
+2) Extract the tcgplayer_firefox_vXX.zip file.
+3) Open firefox url [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox)
+4) Click 'Load Temporary Add-on...' button
+5) Find the manifest.json file from the source of tcgplayertocad extracted from step 2)
 
 Automatic Chrome Installation:
 Pending Chrome review...
