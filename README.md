@@ -1,10 +1,10 @@
-# tcgplayertocad v1.1 sources
+# tcgplayertocad v1.2 sources
 
 Firefox Extension website:
 [https://addons.mozilla.org/en-US/firefox/addon/tcgplayertocad/](https://addons.mozilla.org/en-US/firefox/addon/tcgplayertocad/)
 
 Automatic Installation:
-[https://addons.mozilla.org/firefox/downloads/file/3954861/tcgplayertocad-1.0.zip](https://addons.mozilla.org/firefox/downloads/file/3954861/tcgplayertocad-1.0.zip)
+[https://addons.mozilla.org/firefox/downloads/file/3954861/tcgplayertocad-1.2.zip](https://addons.mozilla.org/firefox/downloads/file/3954861/tcgplayertocad-1.2.zip)
 
 Manual Installation:
 
