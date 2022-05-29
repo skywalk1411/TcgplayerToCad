@@ -16,6 +16,7 @@ Manual Firefox Installation:
 5) Find the manifest.json file from the source of tcgplayertocad extracted from step 2)
 
 Automatic Chrome Installation:
+
 Pending Chrome review...
 
 Manual Chrome Installation:
