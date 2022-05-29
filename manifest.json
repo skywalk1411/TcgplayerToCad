@@ -1,14 +1,14 @@
 {
     "manifest_version": 2,
     "name": "TCGPlayerToCad",
-    "version": "1.2",
+    "version": "1.3",
     "description": "Display TCGPlayer.com prices as (CAD$) Canadian Dollars.",
     "icons": {
         "48": "icons/border-48.png"
     },
     "content_scripts": [
         {
-            "matches": ["*://*.tcgplayer.com/product/*","*://*.tcgplayer.com/search/*","*://*.tcgplayer.com/sellerfeedback/*"],
+            "matches": ["*://*.tcgplayer.com/product/*","*://*.tcgplayer.com/search/*","*://*.tcgplayer.com/sellerfeedback/*","*://*.tcgplayer.com/*/decks/*","*://*.tcgplayer.com/*/decks/","*://*.tcgplayer.com/*/decks","*://*.tcgplayer.com/*/deck/*", "*://prices.tcgplayer.com/price-guide/*", "*://*.tcgplayer.com/*/events/event/*"],
             "js": ["usdToCadProduct.js"]
         }
     ],
