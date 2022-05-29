@@ -5,7 +5,7 @@ Firefox Extension website:
 
 Automatic Firefox Installation:
 
-v1.3 [https://addons.mozilla.org/firefox/downloads/file/3954861/tcgplayertocad-1.3.zip](https://addons.mozilla.org/firefox/downloads/file/3954861/tcgplayertocad-1.3.zip)
+[https://addons.mozilla.org/firefox/downloads/file/3954861/tcgplayertocad-1.3.zip](https://addons.mozilla.org/firefox/downloads/file/3954861/tcgplayertocad-1.3.zip)
 
 Manual Firefox Installation:
 
