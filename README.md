@@ -17,7 +17,7 @@ Manual Firefox Installation:
 
 Automatic Chrome Installation:
 
-Pending Chrome review...
+[https://chrome.google.com/webstore/detail/tcgplayertocad/hkiaoicdihcjjnmhiaahkkdaajlomlik?hl=en&authuser=0](https://chrome.google.com/webstore/detail/tcgplayertocad/hkiaoicdihcjjnmhiaahkkdaajlomlik?hl=en&authuser=0)
 
 Manual Chrome Installation:
 1) Download url [https://github.com/skywalk1411/TcgplayerToCad/blob/main/chrome/tcgplayertocad_chrome_v13.zip](https://github.com/skywalk1411/TcgplayerToCad/blob/main/chrome/tcgplayertocad_chrome_v13.zip).
